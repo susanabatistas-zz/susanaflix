@@ -1,0 +1,109 @@
+{
+  "categorias": [
+    {
+      "titulo": "Música",
+      "link": "/",
+      "cor": "#6BD1FF",
+      "videos": [
+        {
+          "titulo": "Young the Giant - Mind Over Matter",
+          "url": "https://www.youtube.com/watch?v=hWF-OHzi4co"
+        },
+        {
+          "titulo": "Inhaler - My Honest Face",
+          "url": "https://www.youtube.com/watch?v=dAP4B1G-SWk"
+        },
+        {
+          "titulo": "Beyoncé - I Was Here",
+          "url": "https://www.youtube.com/watch?v=i41qWJ6QjPI"
+        },
+        {
+          "titulo": "Leandro Neko - Manual",
+          "url": "https://www.youtube.com/watch?v=kHHNdfdPrtg"
+        },
+        {
+          "titulo": "Maye - Tú",
+          "url": "https://www.youtube.com/watch?v=jhQ4WVJwz7w"
+        }       
+      ]
+    },
+    {
+      "titulo": "Séries",
+      "cor": "#00C86F",
+      "videos": [
+        {
+          "titulo": "Community",
+          "url": "https://www.youtube.com/watch?v=KsyzP8pkaTI"
+        },
+        {
+          "titulo": "The Big Bang Theory",
+          "url": "https://www.youtube.com/watch?v=kCHGDRHZ4eU"
+        },
+        {
+          "titulo": "Modern Family",
+          "url": "https://www.youtube.com/watch?v=q3xrdZpMdu0"
+        },
+        {
+          "titulo": "Hannibal",
+          "url": "https://www.youtube.com/watch?v=FVbWCv49_Xo"
+        },
+        {
+          "titulo": "Friends",
+          "url": "https://www.youtube.com/watch?v=sLisEEwYZvw"
+        }
+      ]
+    },
+    {
+      "titulo": "Animes",
+      "cor": "#9cd33b",
+      "videos": [
+        {
+          "titulo": "Naruto",
+          "url": "https://www.youtube.com/watch?v=Vv-DwDeNrCk"
+        },
+        {
+          "titulo": "Dragon Ball Z",
+          "url": "https://www.youtube.com/watch?v=GJtb9xiC0Pk"
+        },
+        {
+          "titulo": "One Punch Man",
+          "url": "https://www.youtube.com/watch?v=atxYe-nOa9w"
+        },
+        {
+          "titulo": "Fullmetal Alchemist Brotherhood",
+          "url": "https://www.youtube.com/watch?v=AKvvXKGzlOA"
+        },
+        {
+          "titulo": "Beyblade",
+          "url": "https://www.youtube.com/watch?v=-PQRtq_xddM"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Brilho Eterno de uma Mente sem Lembranças",
+          "url": "https://www.youtube.com/watch?v=07-QBnEkgXU"
+        },
+        {
+          "titulo": "Coringa",
+          "url": "https://www.youtube.com/watch?v=-pVENaL5OSo"
+        },
+        {
+          "titulo": "Mulher Maravilha",
+          "url": "https://www.youtube.com/watch?v=Eg8qFkwUmOw"
+        },
+        {
+          "titulo": "Carros",
+          "url": "https://www.youtube.com/watch?v=E1nE-ZJ5IY4"
+        },
+        {
+          "titulo": "Moonlight",
+          "url": "https://www.youtube.com/watch?v=TmMaUKblWMI"
+        }
+      ]
+    }
+  ]
+}
