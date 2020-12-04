@@ -1,6 +1,8 @@
-import Footer from "../Footer";
-import Menu from "../Menu";
-import styled from "styled-components";
+/* eslint-disable react/prop-types */
+import React from 'react';
+import styled from 'styled-components';
+import Footer from '../Footer';
+import Menu from '../Menu';
 
 const Main = styled.main`
   background-color: var(--black);
@@ -15,9 +17,9 @@ function PageDefault({ children }) {
   return (
     <>
       <Menu />
-        <Main>
-          {children}
-        </Main>
+      <Main>
+        {children}
+      </Main>
       <Footer />
     </>
   );
