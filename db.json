@@ -1,0 +1,16 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Música",
+      "description": "Canções que gosto de ouvir",
+      "color": "#6BD1FF"
+    },
+    {
+      "id": 2,
+      "name": "Séries",
+      "description": "Minhas séries favoritas",
+      "color": "#00C86F"
+    }
+  ]
+}  
