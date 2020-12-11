@@ -1,8 +1,8 @@
 {
-  "categories": [
+  "categorias": [
     {
       "id": 1,
-      "name": "Música",
+      "name": "Músicas",
       "description": "Canções que gosto de ouvir",
       "color": "#6BD1FF"
     },
@@ -11,6 +11,152 @@
       "name": "Séries",
       "description": "Minhas séries favoritas",
       "color": "#00C86F"
+    },
+    {
+      "id": 3,
+      "name": "Animes",
+      "description": "Meus animes favoritos",
+      "color": "#9cd33b"
+    },
+    {
+      "id": 4,
+      "name": "Filmes",
+      "description": "Meus filmes favoritos",
+      "color": "orange"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "title": "Young the Giant - Mind Over Matter",
+      "url": "https://www.youtube.com/watch?v=hWF-OHzi4co"
+    },
+    {
+      "id": 2,
+      "categorieasId": 1,
+      "title": "Inhaler - My Honest Face",
+      "url": "https://www.youtube.com/watch?v=dAP4B1G-SWk"
+    },
+    {
+      "id": 3,
+      "categorieasId": 1,
+      "title": "Beyoncé - I Was Here",
+      "url": "https://www.youtube.com/watch?v=i41qWJ6QjPI"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "title": "Leandro Neko - Manual",
+      "url": "https://www.youtube.com/watch?v=kHHNdfdPrtg"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "title": "Maye - Tú",
+      "url": "https://www.youtube.com/watch?v=jhQ4WVJwz7w"
+    },
+    {
+      "id": 6,
+      "categoriaId": 2,
+      "title": "Community",
+      "url": "https://www.youtube.com/watch?v=KsyzP8pkaTI"
+    },
+    {
+      "id": 7,
+      "categoriaId": 2,
+      "title": "The Big Bang Theory",
+      "url": "https://www.youtube.com/watch?v=kCHGDRHZ4eU"
+    },
+    {
+      "id": 8,
+      "categoriaId": 2,
+      "title": "Modern Family",
+      "url": "https://www.youtube.com/watch?v=q3xrdZpMdu0"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "title": "Hannibal",
+      "url": "https://www.youtube.com/watch?v=FVbWCv49_Xo"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "title": "Friends",
+      "url": "https://www.youtube.com/watch?v=sLisEEwYZvw"
+    },
+    {
+      "id": 11,
+      "categoriaId": 3,
+      "title": "Naruto",
+      "url": "https://www.youtube.com/watch?v=Vv-DwDeNrCk"
+    },
+    {
+      "id": 12,
+      "categoriaId": 3,
+      "title": "Dragon Ball Z",
+      "url": "https://www.youtube.com/watch?v=GJtb9xiC0Pk"
+    },
+    {
+      "id": 13,
+      "categoriaId": 3,
+      "title": "One Punch Man",
+      "url": "https://www.youtube.com/watch?v=atxYe-nOa9w"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "title": "Fullmetal Alchemist Brotherhood",
+      "url": "https://www.youtube.com/watch?v=AKvvXKGzlOA"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "title": "Beyblade",
+      "url": "https://www.youtube.com/watch?v=-PQRtq_xddM"
+    },
+    {
+      "id": 16,
+      "categoriaId": 4,
+      "title": "Brilho Eterno de uma Mente sem Lembranças",
+      "url": "https://www.youtube.com/watch?v=07-QBnEkgXU"
+    },
+    {
+      "id": 17,
+      "categoriaId": 4,
+      "title": "Coringa",
+      "url": "https://www.youtube.com/watch?v=-pVENaL5OSo"
+    },
+    {
+      "id": 18,
+      "categoriaId": 4,
+      "title": "Mulher Maravilha",
+      "url": "https://www.youtube.com/watch?v=Eg8qFkwUmOw"
+    },
+    {
+      "id": 19,
+      "categoriaId": 4,
+      "title": "Carros",
+      "url": "https://www.youtube.com/watch?v=E1nE-ZJ5IY4"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "title": "Moonlight",
+      "url": "https://www.youtube.com/watch?v=TmMaUKblWMI"
+    },
+    {
+      "title": "DJ Khaled ft. Drake - POPSTAR",
+      "url": "https://www.youtube.com/watch?v=3CxtK7-XtE0",
+      "categoriaId": 1,
+      "id": 21
+    },
+    {
+      "title": "The Weeknd - Blinding Lights",
+      "url": "https://www.youtube.com/watch?v=4NRXx6U8ABQ",
+      "categoriaId": 1,
+      "id": 22
     }
   ]
-}  
+}
